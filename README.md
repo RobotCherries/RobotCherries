@@ -12,6 +12,8 @@
 - 😄 Pronouns: she/her/hers
 - ⚡ Fun fact: **I'm good at hanayama puzzles, lol**
 
+<hr/>
+
 ### 📐 Languages and Tools
 
 <img align="left" height="32px" width="32px" alt="HTML logo" src="https://bit.ly/3gP4Qgx">
@@ -22,8 +24,9 @@
 <img align="left" height="32px" width="32px" alt="VS Сode logo" src="https://bit.ly/3qZmQcU">
 <img align="left" height="32px" width="32px" alt="Git logo" src="https://bit.ly/34ayuYn">
 <img align="left" height="32px" width="32px" alt="GitHub logo" src="https://bit.ly/3nlY4kZ">
-<br />
-<br />
+
+<br/>
+
 <img align="left" height="32px" width="32px" alt="Angular logo" src="https://i.imgur.com/YvwfCj4.png">
 <img align="left" height="32px" width="32px" alt="Angular Pwa logo" src="https://i.imgur.com/jz4qiSD.png">
 <img align="left" height="32px" width="32px" alt="Angular Cli logo" src="https://i.imgur.com/OzpFHq5.png">
@@ -32,8 +35,9 @@
 <img align="left" height="32px" width="32px" alt="Angular Karma logo" src="https://i.imgur.com/iL3p2qk.png">
 <img align="left" height="32px" width="32px" alt="Angular Web Components logo" src="https://i.imgur.com/BlbrruV.png">
 <img align="left" height="32px" width="32px" alt="Angular Material logo" src="https://i.imgur.com/hA4YQXm.png">
-<br />
+
 <br/>
+<hr/>
 
 ### ⭐ GitHub Stats
 

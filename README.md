@@ -9,7 +9,7 @@
 - 👯 I’m looking to collaborate on **Angular projects**
 - 🤔 I’m looking for help with **Mastering front-end**
 - 💬 Ask me about **Angular** <!-- - 📫 How to reach me: **** -->
-- 😄 Pronouns: she/her/hers
+- 😄 Pronouns: **she/her/hers**
 - ⚡ Fun fact: **I'm good at hanayama puzzles, lol**
 
 <hr/>

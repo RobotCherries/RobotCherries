@@ -7,7 +7,7 @@
 - 🔭 I’m currently working on **Angular, RxJS, NgRx/Redux, React**
 - 🌱 I’m currently learning **How to master Angular, PWAs, Ui/Ux**
 - 👯 I’m looking to collaborate on **Angular projects**
-- 🤔 I’m looking for help with **Mastering front-end**
+- 🤔 I’m looking for help with **Mastering front-end, especially Angular**
 - 💬 Ask me about **Angular** <!-- - 📫 How to reach me: **** -->
 - 😄 Pronouns: **she/her/hers**
 - ⚡ Fun fact: **I'm good at hanayama puzzles, lol**
